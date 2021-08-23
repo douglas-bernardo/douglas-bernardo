@@ -1,4 +1,4 @@
-### Hi there, Douglas aqui 🧑‍💻
+### Hi, Douglas aqui 🧑‍💻
 
 - 🔭 Atualmente trabalhando com BI, porém estou em transição de carreira para a área de Desenvolvimento de Sistemas.
 - 🌱 Estudando Frontend com ReactJS + TypeScript e no Backend PHP(🐘️) e NodeJS. Estou cursando também Análise e Desenvolvimento de Sistemas na UNIFOR (Fortaleza)
