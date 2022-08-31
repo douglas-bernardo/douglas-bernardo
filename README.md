@@ -1,8 +1,7 @@
 ### Hi, Douglas aqui 🧑‍💻
 
-- 🔭 Atualmente trabalhando com BI, porém estou em transição de carreira para a área de Desenvolvimento de Sistemas.
-- 🌱 Estudando Frontend com ReactJS + TypeScript e no Backend PHP(🐘️) e NodeJS. Cursando também Análise e Desenvolvimento de Sistemas na UNIFOR (Fortaleza)
-- 👯 Busco colaborar em projetos da área de frontend e(ou) backend.   
+- 🔭 Apaixonado por tecnologia com experiência no desenvolvimento de aplicações tanto web como mobile com foco na stack React.js, React Native, Node.js e TypeScript.
+- 🌱 Estudando Arquitetura de Sistemas e DevOps na [FullCycle](https://imersao.fullcycle.com.br/page/lancamento/)
 
 <br/>
 <br/>
